@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js and see magic</code>
+          Edit <code>src/App.js and see magic in my feature branch</code>
         </p>
         <a
           className="App-link"
